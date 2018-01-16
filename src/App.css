@@ -1,0 +1,29 @@
+.App {
+    margin: 10% 0;
+    font-size: 22px;
+    text-align: center;
+}
+
+.Countdown-title {
+    font-size: 48px;
+}
+
+.Clock {
+
+}
+
+.Clock-days, .Clock-hours, .Clock-minutes, .Clock-seconds {
+    display: inline;
+    margin-left: 20px;
+}
+
+.Input-date-bar {
+    font-size: 22px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.Submit-btn {
+    padding: 5px;
+    margin: 10px;
+}
